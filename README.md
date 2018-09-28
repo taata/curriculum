@@ -1,2 +1,2 @@
-This is my resume (learn react)
+This is my resume (build while learning react)
 Still in development!
