@@ -6,7 +6,7 @@ import marketmedia from '../../images/experiences/market_media.png';
 
 const Home = () => (
     <Row>
-        <Col m={3} s={12}>
+        <Col m={3} s={12} className="center-div">
             {<UserProfile />}
         </Col>
         <Col m={8} s={12}>
@@ -50,7 +50,7 @@ const Home = () => (
                     </p>
                 } avatar={marketmedia} />}
         </Col>
-    </Row>
+    </Row >
 );
 
 export default Home;
